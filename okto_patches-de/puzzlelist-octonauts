@@ -1,0 +1,583 @@
+# Was: [Place]
+[Ort]
+Oktopod
+Kontrollraum
+Schleusenraum
+Okto-Luke
+Die@bruellenden@Vierziger
+Die Hoehlen@von@Sac Actun
+Mittelmeer
+Lichtzone
+Daemmerzone
+Dunkelzone
+Arktis
+Antarktis
+Nordpol
+Suedpol
+Korallenriff
+Felsenriff
+Galapagos-@inseln
+Bibliothek
+Australien
+Antarktischer Ozean
+Amazonas
+Das Alte Oktopod
+Kranken-@station
+Die@Sac-Actun-@Hoehle
+Karibik
+Karibisches Meer
+Yukatan Dschungel
+Marianen-@graben
+
+Everglades
+Florida
+Great Barrier Reef
+
+# Was: [Person]
+[Person]
+Kaept'n Barnius
+Dana
+Jana
+Calico Jack
+Ranger Marsh
+Professor Tintling
+Cousin Irving
+Bob Bob und Bob
+Die@Blobfisch-@brueder
+Professor Netquick
+
+# Was: [Thing]
+[Ding]
+Stethoskop
+Verband
+Verbands-@kasten
+Schrauben-@schluessel
+Werkzeug-@guertel
+Xylophon
+Danas Kamera
+Fischkeks
+Akkordeon
+Schatzkarte
+Schatztruhe
+Augenklappe
+Pilzleder-@korallen-@schleim
+Steuerrad
+Tiefsee-@anzug
+Fernrohr
+Fernglas
+Guppi-@finder
+Eisberg
+Ozean
+Lupe
+Kompass
+Taucheranzug
+Mikrofon
+Turbo-@antrieb
+Schiffswrack
+Versunkenes Schiff
+Lagune
+Stalagtit
+Stalagmit
+Sauerstoff-@flasche
+Sauerstoff-@tank
+Pressluft-@hammer
+Such-@scheinwerfer
+Tintenfisch-@tinte
+Thermometer
+Fern-@gesteuerte@Kamera
+Handbuch
+Harpune
+Roentgen-@geraet
+Garten-@werkzeug
+Notizbuch
+Schneeanzug
+Anti-@Pilz-@Salbe
+Anker
+Fallschirm
+Taschenlampe
+Luft-@verteiler-@ventil
+Eisbohrer
+Anti-@Frost-System
+Piratentorte
+Wundsalbe
+
+# Was: [Fiction]  ([Person])
+# Use the second to last category to set the second word of this category
+[Fabel-]
+Der Nackawack
+Das achtkoepfige Seeungeheuer
+Geisterwal
+Das riesige@Shrimp-@Monster
+Tiefsee-@einhorn
+Schling-@monster
+Geisterpirat
+Der dreizaehnige Drache
+Das@Ungeheuer aus@der gruse-@ligen Bucht
+Seegeist
+Der Meeresyeti
+Fangzahn-@schnapper
+Enten-@fratziges@Flussmonster
+Seemonster
+Schleimiges@Seegras-@monster
+Sumpfmonster
+Kelpmonster
+Klappriges@Klabauter-@biest
+Drachen-@waechter
+Der giftige Giftzahn
+Eiszahn-@mampfer
+
+# Was: [Phrase]
+[Begriff]
+# Auch das ein „Begriff“. Oder mehr ein „Wort“.
+Unterwasser-@hoehle
+Unterwasser-@Vulkan
+Flosse
+Alge
+Kelp
+Kelpwald
+Packeis
+Hydrothermal-@quelle
+Seetang
+Seegras
+Wasserstrudel
+Meeresstrudel
+Stroemung
+Gezeiten-@tuempel
+Schneckenhaus
+Seetang-@Schnautzbart
+Insel
+Kokosnuss
+Tentakel
+Fangarm
+Hummer-@schere
+Strand
+Seiten-@linien-@organ
+Tiefseegraben
+Sepia
+Kiemen
+Lawine
+Eisbrecher
+Klippe
+Geysir
+Wasserhose
+Rotalgen
+Blaualge
+Braunalge
+Piraten-@eintopf
+Notlandung
+Bruchlandung
+Gewittersturm
+Blitz-@einschlug
+Schub-@umkehr
+Triebwerk
+Roboter-@arm
+Widerhaken
+Lava-@roehre
+Meeresboden
+Kuenstliches Riff
+Hurrikan
+Blasennetz
+Patient
+Treibgut
+Rote Mangrove
+Mangrovenwald
+Mangroven-@samen
+Flussmuendung
+Regenwasser
+Meerwasser
+Fluss-@lebewesen
+Hochwasser
+Uferboeschung
+Lebewesen
+Schlamm-@schlacht
+Hubschrauber
+Brustschubser
+Salzwasser
+Suesswasser
+Suesswasser-@Quelle
+Notfall-@beleuchtung
+Lichtblitz
+Sumpf
+Fossil
+Forschungs-@mission
+Dschungel
+Hungriger Hai
+Hoehlen-@tauchen
+Tischtennis
+Rettungs-@mission
+Sauerstoff
+Leuchtpilze
+Sackgasse
+Fuehrungs-@seil
+Fangzahn
+Luftloch
+Tiefseeberg
+Unterseeberg
+Gesteinsprobe
+Unterdeck
+Stromausfall
+Strom-@generator
+Felslawine
+Unterwasser-@Schlammvulkan
+Schwanzflosse
+Flussufer
+Schatzsuche
+Holz-@fressender@Wels
+Schlammwasser
+Meeres-@bewohner
+Die antarktischen Eisberge
+Erfindung
+Eisscholle
+Forschungs-@station
+Gletscher-@spalte
+Eisbeben
+Buschbrand
+Schlangenhaut
+Piratenschiff
+Korrallen-@polyp
+Wehr-@tentakel
+Korallen-@schleim
+Dornen-@kronen-@seestern-@plage
+Tintenwolke
+Eisbaeren-@kraft
+
+# Was: [Things]
+# FIXME: Eigentlich eher „Wissenschaft“. Wäre aber zu lang.
+# Ebenso „Fachbegriff“.
+[Wissen]
+Symbiose
+Kommensa-@lismus
+Bio-@lumineszenz
+Albino
+Unterwasser-@beben
+Seebeben
+Sonar
+Quallen-@bluete
+Quallen-@stich
+Mauser
+Korallen-@trans-@plantation
+Aalwanderung
+Elektrizitaet
+Raubtier
+Meteoriten-@regen
+Gezeitenwelle
+Kaulquappe
+Mikrobe
+Nahrungs-@suche
+Brutplatz
+Schneesturm
+Brandflecken
+Ein-@geschleppte@Art
+Invasive Art
+Abenteuer
+Muelleimer der Meere
+Delfinschule
+Nachtaktiv
+Knochenfisch
+Parasit
+Cenote
+Unterwasser-@stroemung
+Sonnenlicht
+Krustentier
+Hydro-@thermal-@quelle
+Gezeitenwelle
+Regenzeit
+Salzsee
+
+Meerschleim
+Meeres-@schleim
+Solezapfen
+Polarlicht
+Trockenzeit
+Zooxanthellen
+
+# Was: [Title]
+[Zitat]
+Klappriger@Klabautermann
+Loes den Oktoalarm aus
+Oktonauten - In den Schleusenraum
+Oktonauten - In den Kontrollraum
+Oktonauten - Packen wir's an
+Ach du flatternde Flosse
+
+Ach du lieber Lungenfisch
+Sagt 'Seetang'
+Super-@Duper-@Knabbermoehre
+Oh Mann-o-Moehre
+Faszinierend
+Keine@Ahnung@Probieren@wir's aus
+Aye Aye Kaept'n
+Fressen und Putzen - Putzen und Fressen
+Mach nicht die Seepferdchen scheu
+Seitwaerts Marsch
+Ich glaub@mich tritt@ein See-@pferdchen
+Es gibt keinen Ersatz fuer einen Ersatz
+Wir machen es auf Piratenart
+Ich bin ein@kleiner Biss@in dem grossen Meer
+
+# Was: [People]
+[Titel]
+Der Krebs und der Seeigel
+Der weisse Buckelwal
+Die verwirrten Wale
+Piratenmond
+Die fliegenden Schwerter
+Das Schwert des Piratenkoenigs
+Mittag-@essen-@Missver-@staendnis
+Schatz des Piraten Weissbart
+Die unsterbliche Qualle
+Die See@der ver-@schwundenen@Schiffe
+Die Klauen der Gefahr
+Der einsame Wal
+Die gute@Zusammen-@arbeit
+Das Geheimnis des Kelpmonsters
+Gruselige@Geister-@hoehlen
+Die grossen Waechter des Cenote
+Die@grosse@Weihnachts-@rettung
+Die goldene Koralle
+Die verborgene Stadt
+
+# Was: [Event]
+[Satz]
+See aus kochend heisser Schwefelsaeure
+Fluss aus fluessigem Gestein
+Ein See auf dem Grund des Ozeans
+Die Antarktis ist der kaelteste Punkt auf Erden
+Eisbaeren leben nur in der Arktis
+Pinguine leben nur in der Antarktis
+Die Arktis liegt im Norden
+Die Antarktis liegt im Sueden
+Die Antark-@tis ist noch@kaelter als@die Arktis
+Die Arktis ist ein gefrorener Ozean
+Die Antarktis ist eine gefrorene Landmasse
+Wasser gefriert zu Eis
+Ein Becher heisse Schokolade
+
+# Was: [Same] ([Name])
+# Use the last category to set the second word of this category
+[Tier-]
+Walhai
+Hummer
+Zitronenhai
+Tigerhai
+Kegelschnecke
+Vampir-@tintenfisch
+Seegurke
+Schleimige Seegurke
+Humuhumu-@nukunuku-@apua'a
+Dekorateur-@krabbe
+Yeti-Krabbe
+Fang-@schrecken-@krebs
+Seeigel
+Walross
+Riesenkalmar
+Oktopus
+Tintenfisch
+Orca
+Winkerkrabbe
+Delfin
+Remipede
+Faecherfisch
+Blobfisch
+Seestern
+Muschel
+Sonnen-@seestern
+Igelfisch
+Braunflecken-@Igelfisch
+Schlangen-@stern
+Seewolf
+Buckelwal
+Pilzleder-@koralle
+Schwellhai
+Schaufel-@nasen-@gitarren-@rochen
+Kelpfisch
+Seeanemone
+Krabbe
+Narwal
+Pistolenkrebs
+Napfschnecke
+Roehrenwurm
+Leder-@schildkroete
+Meeres-@schildkroete
+Hornhecht
+Einsiedler-@krebs
+Blauwal
+Meeres-@schnecken
+Belugawal
+Pilotfisch
+Weiss-@spitzen-@hai
+Vampir-@tintenfisch
+Seepferdchen
+Kammqualle
+Zigarrenhai
+Riemenfisch
+Anglerfisch
+
+Kamm-@zahn-@schleim-@fisch
+Blaubarsch
+Roehren-@aal
+Qualle
+Feurqualle
+Delfin
+Gespenster-@fisch
+Pinguin
+Plankton
+Schleimaal
+See-Elefant
+Sardine
+Sardinen-@schwarm
+Schwamm
+Aal
+Meeres-@echse
+Leguan
+Zwerg-@Laternen-@hai
+Krill
+Seepocke
+Papagei-@fisch
+Muraene
+Zitterrochen
+Koralle
+Spinnenkrabbe
+Japanische Riesenkrabbe
+Riesenmuschel
+Koloss-@Kalmar
+Leucht-@kalmar
+Pottwal
+Adelie-@pinguin
+Palmendieb
+Fliegender Fisch
+Weisser Hai
+Nattern-@Plattschwanz
+Schlange
+Seeschlange
+Groenlandwal
+Hering
+Kieferfisch
+Mantarochen
+Riffbarsch
+Langarm-@Kalmar
+Schiffshalter
+Schwertfisch
+Drueckerfisch
+Mimik-@Oktopus
+Gestreifte Seezunge
+Rotfeuerfisch
+Feuerfisch
+Zebrafisch
+Grosser Fetzenfisch
+Manati
+Seekuh
+Klebrige Napfschnecke
+Barrakuda
+Salzwasser-@krokodil
+Leisten-@krokodil
+Bueffelkopf-@Papageifisch
+Pelikan-@aal
+Tiefsee-@koralle
+Riesige Staatsqualle
+Baertierchen
+Pelikan
+Seeschwein
+Schnabeltier
+Meerwasser-@laeufer
+Schlamm-@springer
+Seehund
+Gelbe Haarqualle
+Dornhai
+Grosskopf-@krake
+Rote Klippenkrabbe
+Meeresschwamm
+Wal-@laus
+Rote Seeigel
+Seeotter
+Hammerhai
+Stechrochen
+Unechte@Karett-@schildkroete
+Baumsteiger-@frosch
+Piranha
+Libelle
+Pazifischer Riesenkrake
+Fang-@schrecken-@krebs
+Baumhummer
+Weiss-@streifen-@Aalgrundel
+Kaiserpinguin
+Alligator
+Krokodil
+Bombenwurm
+Riesenassel
+Flusskrebs
+Wasserschwein
+Capybara
+
+Chinesische@Wollhand-@krabbe
+Veilchen-@schnecke
+Flamingo
+Sumpffrosch
+Zackenbarsch
+Grauwal
+Gelbbauch-@Seeschlange
+Putzerfisch
+Kokosnuss-@oktopus
+Ader-Oktopus
+Quasten-@flosser
+Blaukopf-@Junker
+Flusspferd
+Spinnerdelfin
+Moenchsfisch
+Mondfish
+Garnele
+Fledermaus
+Wombat
+Hoehlenfisch
+Roehren-wurm
+Riesenassel
+Albatros
+Weihnachts-@baum-@wurm
+Suesswasser-@stechrochen
+Kaiman
+Amazonas-@Manati
+Papagei
+Flussdelfin
+Zitteraal
+Feuerameise
+Anakonda
+Arapaima
+Capybara
+Piranha
+Panaque
+Suesswasser-@schwamm
+Weddelrobbe
+
+Seescheide
+Stundenglas-@delfin
+Polarfuchs
+Saugmaulwels
+Nilwaran
+Bisamratte
+Tigerpython
+Steinkoralle
+Dornenkronen-@seestern
+Waechter-@grundel
+Blinder Shrimp
+Waechter-@krabbe
+Gepunktete@Waechter-@krabbe
+
+# Was [Person] – Second word of [Fiction Person]
+# ATTENTION: Don’t put anything in that category!
+#            This is only the second word of a previous category. Trying to
+#            put anything in here, will lead to unsolvable puzzles.
+# This category is only available in the Family (and maybe in the Junior)
+# Edition, but not in the classic edition. Comment it out when using this
+# puzzlelist for the classic edition.
+[Wesen]
+
+# Was [Name] – Second word of [Same Name]
+# ATTENTION: Don’t put anything in that category!
+#            This is only the second word of a previous category. Trying to
+#            put anything in here, will lead to unsolvable puzzles.
+# This category is only available in the Family (and maybe in the Junior)
+# Edition, but not in the classic edition. Comment it out when using this
+# puzzlelist for the classic edition.
+[Art]
+
+# vim: ft=wheelpuzzles :

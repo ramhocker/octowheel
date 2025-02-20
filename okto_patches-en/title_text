@@ -1,0 +1,55 @@
+## There are 19 lines available for text (actually a bit more, but they
+## will not be fully visible on an NTSC screen).
+## Each line can contain up to 32 characters.
+## The first line sits between both images.
+## But there is a maximum number of 299 characters (including newlines) that
+## can fit into the available byte area.
+##
+## The allowed characters are: A-Za-z0-9,./&©℗?!"’=-←* and the space character
+## The hack script will replace lowercase chars with uppercase chars and
+## replace all characters with the corresponding hex values.
+## It assumes that the tiles containing the actual charaters are not
+## modified. If they are (e.g. if the © is not used and should be replaced
+## by a ö and the tile is modified accordingly, the hack script will still
+## assume the © as input in this file for that tile. If it should accept
+## the actual ö character the tbl-file must be changed accordingly.
+## To also change the vim syntax highlighting in this file, the sytax file
+## must be adapted as well.
+##
+## The hack script also adds 0x80 to the last character of each line
+## (to indicate the line end) and calculate the correct offset for the
+## next line of text.
+##
+## Do not change the number of lines! All lines (except comments) are
+## significant.
+
+
+#START##########################
+   ##         \  /         ##
+   ##         GAME™        ##
+   ##          TEK         ##
+   ##         /  \         ##
+
+   Octonauts! To the Game Pod!
+
+   ##   WHEEL•  •FORTUNE®  ##
+   ##        •OF•          ##
+
+        * Okto Edition *
+
+
+      The Mystery Sisters
+      - and Shellington -
+     invite you to a game.
+
+ Show off your knowledge of all
+  the creatures the Octonauts
+ encounter in their adventures.
+
+  Play against your friends or
+  relatives. We hope you have
+  a good grasp of orthography!
+#END############################
+
+
+# vim: ft=wheeltitle :

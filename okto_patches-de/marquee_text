@@ -1,0 +1,30 @@
+# The marquee text. May contain all characters from marquee.tbl
+# (that is .,-©/?=←℗*)
+# and may additionally reference tiles via byte address.
+# Spaces (also on line ends) are significant. Line breaks are ignored.
+#
+# Byte addresses /must/ be specified on separate lines that start with a
+# dollar sign. Spaces in these lines are /not/ significant and will be
+# ignored. The byte values then need to be separated from the dollar sign
+# and from each other by whitespace.
+#
+# There are 350 characters available. Each byte address counts as one
+# character. The text may be shorter than 350 characters.
+#
+# Make sure that there is at least a space character at the end of the
+# text, otherwise the last character will be immediately followed by the
+# first character again.
+
+GAME TEK  - presents -
+$ 7e 80 82 84 86 88 8a 8c 8e 90 92 94
+$ 96 98 9a 9c 9e a0 a2 a4 a6 a8 aa ac
+ Family Edition .... 
+Based on the Television program produced by Merv Griffin Enterprises, 
+a unit of Columbia Pictures Entertainment, Inc.    
+©℗  1990 I.J.E. Inc.    
+© 1990 Califon Productions Inc.     
+Program and Audiovisual by RARE Ltd. / RARE Coin-IT Inc.   
+Licensed by Nintendo of America Inc.       
+
+
+# vim: ft=wheelmarquee :
