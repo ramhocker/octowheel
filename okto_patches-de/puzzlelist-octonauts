@@ -21,7 +21,7 @@ Bibliothek
 Australien
 Antarktischer Ozean
 Amazonas
-Das Alte Oktopod
+Das@Alte@Oktopod
 Kranken-@station
 Die@Sac-Actun-@Hoehle
 Karibik
@@ -65,7 +65,7 @@ Steuerrad
 Tiefsee-@anzug
 Fernrohr
 Fernglas
-Guppi-@finder
+Guppy-@finder
 Eisberg
 Ozean
 Lupe
@@ -97,7 +97,7 @@ Fallschirm
 Taschenlampe
 Luft-@verteiler-@ventil
 Eisbohrer
-Anti-@Frost-System
+Anti-@Frost-@System
 Piratentorte
 Wundsalbe
 
@@ -167,7 +167,7 @@ Piraten-@eintopf
 Notlandung
 Bruchlandung
 Gewittersturm
-Blitz-@einschlug
+Blitz-@einschlag
 Schub-@umkehr
 Triebwerk
 Roboter-@arm
@@ -290,6 +290,7 @@ Solezapfen
 Polarlicht
 Trockenzeit
 Zooxanthellen
+Sardinen-@schwarm
 
 # Was: [Title]
 [Zitat]
@@ -322,7 +323,7 @@ Der weisse Buckelwal
 Die verwirrten Wale
 Piratenmond
 Die fliegenden Schwerter
-Das Schwert des Piratenkoenigs
+Das@Schwert des@Piraten-@koenigs
 Mittag-@essen-@Missver-@staendnis
 Schatz des Piraten Weissbart
 Die unsterbliche Qualle
@@ -402,7 +403,7 @@ Meeres-@schildkroete
 Hornhecht
 Einsiedler-@krebs
 Blauwal
-Meeres-@schnecken
+Meeres-@schnecke
 Belugawal
 Pilotfisch
 Weiss-@spitzen-@hai
@@ -425,7 +426,6 @@ Plankton
 Schleimaal
 See-Elefant
 Sardine
-Sardinen-@schwarm
 Schwamm
 Aal
 Meeres-@echse
@@ -488,7 +488,7 @@ Grosskopf-@krake
 Rote Klippenkrabbe
 Meeresschwamm
 Wal-@laus
-Rote Seeigel
+Roter Seeigel
 Seeotter
 Hammerhai
 Stechrochen
@@ -504,7 +504,6 @@ Kaiserpinguin
 Alligator
 Krokodil
 Bombenwurm
-Riesenassel
 Flusskrebs
 Wasserschwein
 Capybara
@@ -524,12 +523,12 @@ Blaukopf-@Junker
 Flusspferd
 Spinnerdelfin
 Moenchsfisch
-Mondfish
+Mondfisch
 Garnele
 Fledermaus
 Wombat
 Hoehlenfisch
-Roehren-wurm
+Roehren-@wurm
 Riesenassel
 Albatros
 Weihnachts-@baum-@wurm
@@ -543,7 +542,6 @@ Feuerameise
 Anakonda
 Arapaima
 Capybara
-Piranha
 Panaque
 Suesswasser-@schwamm
 Weddelrobbe
